@@ -1,0 +1,8 @@
+[33mcommit f9a9085696b5011b2745bdc3e2d078b521de1619[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Pulkitt397 <pulkit397@gmail.com>
+Date:   Mon Dec 15 03:11:21 2025 +0530
+
+    Add Procfile for Railway (gunicorn app:app)
+
+app.py
+procfile
